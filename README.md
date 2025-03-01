@@ -45,3 +45,8 @@ These editors operate on cloud-based platforms where documents are stored online
 One of the main challenges in building real-time collaborative editors is handling concurrent edits and resolving conflicts. Technologies like Operational Transformation (OT) and open-source solutions like Firepad and ShareJS provide effective solutions for these challenges[8].
 
 In conclusion, real-time collaborative document editors are powerful tools that enhance teamwork and productivity by allowing multiple users to work on documents simultaneously. With their robust features and integration capabilities, these editors are becoming essential in modern collaborative workflows.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/61acf6ef-90a8-4530-a9e3-c1b74d5f4869)
+
+![Image](https://github.com/user-attachments/assets/0ac1f744-c156-4063-89e3-6369cc52e0bd)
