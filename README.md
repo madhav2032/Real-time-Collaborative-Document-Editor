@@ -1,10 +1,17 @@
 # Real-time-Collaborative-Document-Editor
+
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: ARATI MANGROLE
+
 INTERN ID: CT12ODZ
+
 DOMAIN: WED DEVELOPMENT
+
 DURATION: 8 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:
 ## Introduction to Real-Time Collaborative Document Editors
 
